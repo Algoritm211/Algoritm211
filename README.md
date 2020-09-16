@@ -1,4 +1,4 @@
-### Hi Everyone! I'm Python/JS developer 👋
+#### Hi Everyone! 👨‍💻 I'm a Python developer 👋
 
 
 
