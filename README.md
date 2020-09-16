@@ -5,7 +5,7 @@
 - 👯 I’m open to communication and ready to take part in any project
 
 - 📫 How to reach me:
-    ##### Telegram: @Alexey_Horbunov
+    ##### Telegram: [@Alexey_Horbunov](https://t.me/Alexey_Horbunov "Мой телеграм")
     ##### E-mail: algoritm211@gmail.com
 
 
