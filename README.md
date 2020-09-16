@@ -1,5 +1,14 @@
 #### Hi Everyone! 👨‍💻 I'm a Python developer 👋
 
+- 🌐 I am a web developer, I write sites, Telegram bots, parsers, and much more). I also teach 🐍 Python to other people
+- 🔭 I’m currently practice writing programs on Python and learning JS
+- 👯 I’m open to communication and ready to take part in any project
+
+- 📫 How to reach me:
+    ##### Telegram: @Alexey_Horbunov
+    ##### E-mail: algoritm211@gmail.com
+
+
 
 
 <!--
