@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Everyone! I'm Python/JS developer 👋
+
+
 
 <!--
 **Algoritm211/Algoritm211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
