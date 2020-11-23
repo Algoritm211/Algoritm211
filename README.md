@@ -8,7 +8,7 @@
     ##### Telegram: [@Alexey_Horbunov](https://t.me/Alexey_Horbunov "Мой телеграм")
     ##### E-mail: algoritm211@gmail.com
 
-![js gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif)
+![js gif](https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif = 60x60)
 
 
 <!--
