@@ -9,7 +9,7 @@
     ##### E-mail: algoritm211@gmail.com
 <p>
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="60" height="60">
-    <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/source.gif" width="60" height="60">
+    <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" width="60" height="60">
 <p>
 
 
