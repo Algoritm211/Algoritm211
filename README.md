@@ -12,6 +12,7 @@
     <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" width="60" height="60">
 <p>
 
+**Here you can see my CV: [click on the link](https://docs.google.com/document/d/1nt3DZw6nWhinhIkpzolc_Yo4fCxSGhPpsfF0orbNeAo/edit#heading=h.6oqrfo90le59)**
 
 <!--
 **Algoritm211/Algoritm211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
