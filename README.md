@@ -8,8 +8,8 @@
     ##### Telegram: [@Alexey_Horbunov](https://t.me/Alexey_Horbunov "Мой телеграм")
     ##### E-mail: algoritm211@gmail.com
 <p>
-    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="60" height="60">
-    <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" width="60" height="60">
+    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="65" height="65">
+    <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" width="65" height="65">
 <p>
 
 **Here you can see my CV: [click on THIS link](https://docs.google.com/document/d/1nt3DZw6nWhinhIkpzolc_Yo4fCxSGhPpsfF0orbNeAo/edit#heading=h.6oqrfo90le59)**
