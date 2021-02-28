@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Alexey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=algoritm211)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoritm211&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
