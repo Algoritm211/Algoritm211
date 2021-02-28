@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Аlexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoritm211)](https://github.com/anuraghazra/github-readme-stats)
+[![Alexey's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=algoritm211)](https://github.com/anuraghazra/github-readme-stats)
+
