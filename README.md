@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 -->
 
 ![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoritm211&show_icons=true&theme=tokyonight&hide=total_prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
