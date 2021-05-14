@@ -1,4 +1,4 @@
-#### Hi Everyone! 👨‍💻 I'm a JavaScript/Python developer 👋
+#### Hi Everyone! 👨‍💻 I'm a JavaScript(React/Next) developer 👋
 
 - 🌐 I am a web developer, I write sites, Telegram bots, parsers, and much more 😁. I also teach 🐍 Python/Django and JS to other people
 - 🔭 I’m currently practice writing programs on JS(Reactjs) and ExpressJS
