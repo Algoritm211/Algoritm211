@@ -6,6 +6,7 @@
 
 - 📫 How can you reach me:
     ##### Telegram: [@Alexey_Horbunov](https://t.me/Alexey_Horbunov "Мой телеграм")
+    ##### LinkedIn: [Alexey_Horbunov](https://www.linkedin.com/in/alexey-horbunov211/)
     ##### E-mail: algoritm211@gmail.com
 <p>
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="65" height="65">
