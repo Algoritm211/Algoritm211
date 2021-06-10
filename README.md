@@ -1,7 +1,7 @@
 #### Hi Everyone! 👨‍💻 I'm a JavaScript(React/Next) developer 👋
 
 - 🌐 I am a web developer, I write sites, Telegram bots, parsers, and much more 😁. I also teach 🐍 Python/Django and JS to other people
-- 🔭 I’m currently practice writing programs on JS(ReactJS/NextJS) and ExpressJS
+- 🔭 I’m currently practice writing programs on JS(ReactJS/NextJS) and ExpressJS(MongoDB/PostgreSQL)
 - 🤝 I’m open to communication and ready to take part in any project or teach you something interesting(Python or JS) :)
 
 - 📫 How can you reach me:
