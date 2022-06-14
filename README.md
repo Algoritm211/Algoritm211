@@ -6,14 +6,14 @@
 
 - 📫 How can you reach me:
     ##### Telegram: [@Alexey_Horbunov](https://t.me/Alexey_Horbunov "Мой телеграм")
-    ##### LinkedIn: [Alexey_Horbunov](https://www.linkedin.com/in/alexey-horbunov211/)
+    ##### LinkedIn: [Alexey_Horbunov](https://www.linkedin.com/in/horbunov/)
     ##### E-mail: algoritm211@gmail.com
 <p>
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="65" height="65">
     <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" width="65" height="65">
 <p>
 
-**Here you can see my CV: [click on THIS link](https://drive.google.com/file/d/1Q3HLcsmgFe0KdOHMaRMekG7GqOTji6ty/view?usp=sharing)**
+**Here you can see my CV: [click on THIS link](https://drive.google.com/file/d/1SYJ-uC9BXaYydbyiJcyCqG2Cx6ow1sVD/view?usp=sharing)**
 
 <!--
 **Algoritm211/Algoritm211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
