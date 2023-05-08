@@ -17,6 +17,8 @@
     #### LinkedIn: [Alexey_Horbunov](https://www.linkedin.com/in/horbunov/) - here sometimes you can see frontend tips 😉
     
     #### E-mail: [algoritm211@gmail.com](mailto:algoritm211@gmail.com)
+    
+    #### Telegram channel: [Frontend World](https://t.me/world_of_frontend)
 <p>
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="65" height="65">
     <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" width="65" height="65">
