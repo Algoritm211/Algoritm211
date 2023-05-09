@@ -18,7 +18,7 @@
     
     #### E-mail: [algoritm211@gmail.com](mailto:algoritm211@gmail.com)
     
-    #### Telegram channel: [Frontend World](https://t.me/world_of_frontend)
+    #### Telegram channel: [Frontend World](https://t.me/world_of_frontend) (recently opened)
 <p>
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="65" height="65">
     <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" width="65" height="65">
