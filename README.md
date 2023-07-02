@@ -8,7 +8,8 @@
     - [Post about frontend meetup](https://www.linkedin.com/posts/horbunov_frontend-angular-angular-ugcPost-7055235704087310336-qg0N/)
 - 📰 Also I'm writing articles about frontend technologies and career growth of frontend engineer
     - [Мануал для джуна. Що треба знати новачку у frontend-розробці перед співбесідою на проєкт мрії: запитання для інтерв'ю та приклади тестових | dev.ua](https://www.notion.so/frontend-de-20e60d22f4234002b3c67bbc73c3a8e4)
-    - [Подальший розвиток фронтенд-розробника: що потрібно знати, крім фронтенду | DOU](https://www.notion.so/DOU-26e8f7cfa2714825be8a4be93395dcb5)
+    - [Подальший розвиток фронтенд-розробника: що потрібно знати, крім фронтенду | DOU](https://dou.ua/forums/topic/42710/)
+    - [Ренесанс у світі Angular: зміни, які міняють правила гри | DOU](https://dou.ua/forums/topic/43733/)
 - 🤝 I’m open to communication and ready to take part in any project or teach you something interesting(more likely something related to frontend world) :)
 - 📫 How can you reach me:
     
