@@ -29,7 +29,7 @@
     <img src="https://media1.giphy.com/media/XEDIHHp3i8bVoEdxd7/source.gif" width="65" height="65">
 <p>
 
-**Here you can see my CV: [click on THIS link](https://drive.google.com/file/d/1soGf7y9LWAISbjSz79Nkdg2qdxB0yyUj/view?usp=sharing)**
+**Here you can see my CV: [click on THIS link](https://drive.google.com/file/d/1oBlFsGdS3RdX3J6dkeu_ZBaZE4NjVsaw/view?usp=sharing)**
 
 ![Alexey's GitHub stats](https://github-readme-stats.vercel.app/api?username=algoritm211&show_icons=true&theme=tokyonight&count_private=true&hide=total_prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoritm211&layout=compact&theme=tokyonight&hide=glsl)
